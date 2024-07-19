@@ -12,7 +12,7 @@
 
 <div align="left" style="margin-top: 20px;">
     <b>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=0095EF&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=A224AD&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
     </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="display: inline-block; margin-top: 5px;">
 </div>
@@ -34,9 +34,9 @@
 
 <br> <br>
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47wutc5px4tkv4qj233bf0x19ghodl4bn34q4fut7p&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="30"><b> Languages and Tools </b>
+## <b> Languages and Tools </b><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47wutc5px4tkv4qj233bf0x19ghodl4bn34q4fut7p&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="30">
 
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" width="40"/>
@@ -63,7 +63,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>
-
+</p>
 
 <br> <br>
 
@@ -87,9 +87,9 @@
 <br><br>
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="center">
-	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
- 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook.png"/></a>
+	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v9q7oVKxTRhw&format=png&color=A224AD"/></a>
+	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=Ww1lcGqgduif&format=png&color=A224AD"/></a>
+ 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=MCDIN0kjvWmA&format=png&color=A224AD"/></a>
 </p>
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![bottom_header.svg](bottom_header.svg)
