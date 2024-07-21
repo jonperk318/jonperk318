@@ -9,17 +9,15 @@
 - ⚡ Fun fact: ...
 -->
 
-
 <div align="left" style="margin-top: 20px;">
     <b>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=A224AD&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
     </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="display: inline-block; margin-top: 5px;">
 </div>
-<br>
-<h2 align="left">About Me</h2>
+
+<h2>About Me</h2>
 <a target="_blank" align="center">
-<br>
 </a>
 
 #### -  🌏 I’m passionate about learning and building new technologies to make the world a better place for everyone.
@@ -32,9 +30,9 @@
 
 #### -  🎸 When I'm not coding, I'm either walking my dog, cooking, or playing my guitar.
 
-<br> <br>
 
-## <b> Languages and Tools </b><img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=ecf05e47wutc5px4tkv4qj233bf0x19ghodl4bn34q4fut7p&ep=v1_gifs_related&rid=giphy.gif&ct=s" width ="30">
+
+## <b> Languages and Tools </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
@@ -70,11 +68,11 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jonperk318&count_private=true&theme=dark&hide_border=true&title_color=F31D64&text_color=BCBCBC" alt="JP's Contribution" width=400>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonperk318&count_private=true&theme=dark&hide_border=true&title_color=F31D64&text_color=BCBCBC" alt="JP's Contribution" width=500>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonperk318&count_private=true&theme=dark&hide_border=true&text_color=BCBCBC" alt="JP's Rating" width=400>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonperk318&count_private=true&theme=dark&hide_border=true&text_color=BCBCBC" alt="JP's Rating" width=500>
 <!-- GitHub Language Stats -->
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook&theme=dark&title_color=F31D64&text_color=BCBCBC" alt = "JP's Languages/Frameworks" width = 400 />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook&theme=dark&title_color=F31D64&text_color=BCBCBC" alt="JP's Languages/Frameworks" width=500 />
 </p>
 <p align = "center">
 </p>
@@ -85,11 +83,12 @@
 
 
 <br><br>
-## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect! </b><img src="https://img.icons8.com/?size=100&id=LWt6Q00GmTis&format=png&color=F31D64" width ="50">
 <p align="center">
 	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v9q7oVKxTRhw&format=png&color=A224AD"/></a>
 	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=Ww1lcGqgduif&format=png&color=A224AD"/></a>
- 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=MCDIN0kjvWmA&format=png&color=A224AD"/></a>
+ 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=MCDIN0kjvWmA&format=png&color=A224AD"/></a>
+<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=32309&format=png&color=A224AD"/></a>
 </p>
 
 ![bottom_header.svg](bottom_header.svg)
