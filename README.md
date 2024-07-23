@@ -11,7 +11,7 @@
 
 <div align="left" style="margin-top: 20px;">
     <b>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=A224AD&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=0095EF&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
     </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="display: inline-block; margin-top: 5px;">
 </div>
@@ -68,11 +68,11 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jonperk318&count_private=true&theme=dark&hide_border=true&title_color=F31D64&text_color=BCBCBC" alt="JP's Contribution" width=500>
+  <img src="https://github-readme-stats.vercel.app/api?username=jonperk318&count_private=true&theme=dark&hide_border=true&title_color=A224AD&text_color=BCBCBC" alt="JP's Contribution" width=500>
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jonperk318&count_private=true&theme=dark&hide_border=true&text_color=BCBCBC" alt="JP's Rating" width=500>
 <!-- GitHub Language Stats -->
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook&theme=dark&title_color=F31D64&text_color=BCBCBC" alt="JP's Languages/Frameworks" width=500 />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook&theme=dark&title_color=A224AD&text_color=BCBCBC" alt="JP's Languages/Frameworks" width=500 />
 </p>
 <p align = "center">
 </p>
@@ -83,12 +83,10 @@
 
 
 <br><br>
-## <b> Let's Connect! </b><img src="https://img.icons8.com/?size=100&id=LWt6Q00GmTis&format=png&color=F31D64" width ="50">
+## <b> Let's Connect! </b><img src="https://img.icons8.com/?size=100&id=LWt6Q00GmTis&format=png&color=0095EF" width ="50">
 <p align="center">
-	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=v9q7oVKxTRhw&format=png&color=A224AD"/></a>
-	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=Ww1lcGqgduif&format=png&color=A224AD"/></a>
- 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=MCDIN0kjvWmA&format=png&color=A224AD"/></a>
-<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=32309&format=png&color=A224AD"/></a>
+	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/?size=70&id=v9q7oVKxTRhw&format=png&color=A224AD"/></a>
+	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/?size=70&id=Ww1lcGqgduif&format=png&color=A224AD"/></a>
+ 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/?size=70&id=MCDIN0kjvWmA&format=png&color=A224AD"/></a>
+<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/?size=70&id=32309&format=png&color=A224AD"/></a>
 </p>
-
-![bottom_header.svg](bottom_header.svg)
