@@ -1,6 +1,6 @@
 :root {
 
-  /* OFFICIAL */
+  /* OFFICIAL (HEX)*/
   --black: #0F1416;
   --space-cadet: #282D40;
   --davys-gray: #4A495A;
@@ -18,6 +18,22 @@
   --teal: #43C68B;
 
 
+  /* OFFICIAL (RGB) */
+  --black_: rgb(15, 20, 22);
+  --space_cadet_: rgb(40, 45, 64);
+  --davys-gray_: rgb(74, 73, 90);
+  --taupe_: rgb(131, 130, 139);
+  --silver_: rgb(188, 188, 188);
+
+  --salmon_: rgb(254, 67, 60);
+  --watermelon_: rgb(243, 29, 100);
+  --lilac_: rgb(162, 36, 173);
+  --purple_: rgb(106, 56, 179);
+  --blue_: rgb(60, 80, 129);
+  --light-blue_: rgb(0, 149, 239);
+
+  --yellow_: rgb(239, 202, 0);
+  --teal_: rgb(67, 198, 139);
 
 
 
@@ -27,27 +43,8 @@
 
 
 
-
-  /* TEST */
+  /* OTHER */
   --oxford-blue: #0a162c;
-
-  --blue-green: #126969;
-  --sun: #FFE87C;
-  --yellow2: #FFFF00;
-
-
-  /* LANGUAGES */
-
-
-
-  /* OLD */
-  --yellow1: #ffb381;
-  --one: #3a86ff;
-  --two: #ffbe0b;
-  --three: #ff006e;
-  --four: #8338ec;
-  --five: #fb5607;
-  --six: #390099;
 }
 
 /* https://www.pinterest.com/pin/480759328972720017/ */
