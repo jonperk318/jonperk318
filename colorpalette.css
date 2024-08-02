@@ -1,6 +1,39 @@
 :root {
 
-  /* OFFICIAL (HEX)*/
+  /* OFFICIAL (HEX) */
+
+  --a: #1f2335;
+  --b: #24283b;
+  --c: #292e42;
+  --d: #3b4261;
+  --e: #414868;
+  --f: #545c7e;
+  --g: #565f89;
+  --h: #737aa2;
+  --i: #a9b1d6;
+  --j: #c0caf5;
+  --k: #394b70;
+  --l: #3d59a1;
+  --m: #7aa2f7;
+  --n: #7dcfff;
+  --o: #b4f9f8;
+  --p: #bb9af7;
+  --q: #9d7cd8;
+  --r: #ff9e64;
+  --s: #ffc777;
+  --t: #c3e88d;
+  --u: #4fd6be;
+  --v: #41a6b5;
+  --w: #ff757f;
+  --x: #c53b53;
+  --y: #ff007c;
+
+  /* OFFICIAL (RGB) */
+
+
+
+
+  /* OLD (HEX)*/
   --black: #0F1416;
   --space-cadet: #282D40;
   --davys-gray: #4A495A;
@@ -18,7 +51,7 @@
   --teal: #43C68B;
 
 
-  /* OFFICIAL (RGB) */
+  /* OLD (RGB) */
   --black_: rgb(15, 20, 22);
   --space_cadet_: rgb(40, 45, 64);
   --davys-gray_: rgb(74, 73, 90);
@@ -34,13 +67,6 @@
 
   --yellow_: rgb(239, 202, 0);
   --teal_: rgb(67, 198, 139);
-
-
-
-
-
-
-
 
 
   /* OTHER */

@@ -2,7 +2,7 @@
     <b>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=7aa2f7&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
     </b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" style="display: inline-block; margin-top: 5px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhqN2sycno2M2FpYTRjM3V0M3ZzeTZzcGlvZ2s2dnJwMmF3dTVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.webp" width="50" style="display: inline-block; margin-top: 5px;">
 </div>
 
 <h2>About Me</h2>
@@ -45,7 +45,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40"/>
@@ -74,8 +73,8 @@
 <br><br>
 ## <b> Let's Connect! </b><img src="https://img.icons8.com/?size=100&id=LWt6Q00GmTis&format=png&color=7aa2f7" width ="50">
 <p align="center">
-	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/?size=40&id=v9q7oVKxTRhw&format=png&color=ff007c"/></a>
-	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/?size=40&id=Ww1lcGqgduif&format=png&color=ff007c"/></a>
- 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/?size=40&id=MCDIN0kjvWmA&format=png&color=ff007c"/></a>
-<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/?size=40&id=32309&format=png&color=ff007c"/></a>
+	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/?size=20&id=v9q7oVKxTRhw&format=png&color=bb9af7"/></a>
+	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/?size=20&id=Ww1lcGqgduif&format=png&color=bb9af7"/></a>
+ 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/?size=20&id=MCDIN0kjvWmA&format=png&color=bb9af7"/></a>
+<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/?size=20&id=32309&format=png&color=bb9af7"/></a>
 </p>
