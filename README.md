@@ -2,7 +2,7 @@
     <b>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=7aa2f7&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
     </b>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhqN2sycno2M2FpYTRjM3V0M3ZzeTZzcGlvZ2s2dnJwMmF3dTVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.webp" width=180 style="display: inline-block; margin-top: 5px;">
+    <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhqN2sycno2M2FpYTRjM3V0M3ZzeTZzcGlvZ2s2dnJwMmF3dTVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.webp" width=180 style="display: inline-block; margin-top: 5px;"> -->
 </div>
 
 <h2>About Me</h2>
@@ -61,7 +61,7 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jonperk318&count_private=true&theme=tokyonight&hide_border=true" alt="JP's Contribution" width=500>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=jonperk318&count_private=true&theme=tokyonight&hide_border=true" alt="JP's Contribution" width=500> -->
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jonperk318&count_private=true&theme=tokyonight&hide_border=true&text_color=BCBCBC" alt="JP's Rating" width=500>
 <!-- GitHub Language Stats -->
