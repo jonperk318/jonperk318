@@ -1,6 +1,44 @@
 :root {
 
-  /* OFFICIAL (HEX) */
+  /* OFFICIAL (HEX)*/
+  --black: #0F1416;
+  --space-cadet: #282D40;
+  --davys-gray: #4A495A;
+  --taupe: #83828B;
+  --silver: #BCBCBC;
+
+  --salmon: #FE433C;
+  --watermelon: #F31D64;
+  --lilac: #A224AD;
+  --fusha: #db1df3;
+  --purple: #6A38B3;
+  --lavender: #bdadff;
+  --blue: #3C5081;
+  --light-blue: #0095EF;
+
+  --yellow: #EFCA00;
+  --teal: #43C68B;
+
+
+  /* OFFICIAL (RGB) */
+  --black_: rgb(15, 20, 22);
+  --space_cadet_: rgb(40, 45, 64);
+  --davys-gray_: rgb(74, 73, 90);
+  --taupe_: rgb(131, 130, 139);
+  --silver_: rgb(188, 188, 188);
+
+  --salmon_: rgb(254, 67, 60);
+  --watermelon_: rgb(243, 29, 100);
+  --lilac_: rgb(162, 36, 173);
+  --purple_: rgb(106, 56, 179);
+  --blue_: rgb(60, 80, 129);
+  --light-blue_: rgb(0, 149, 239);
+
+  --yellow_: rgb(239, 202, 0);
+  --teal_: rgb(67, 198, 139);
+
+
+  /* TOKYO NIGHT (HEX) */
 
   --a: #1f2335;
   --b: #24283b;
@@ -27,46 +65,6 @@
   --w: #ff757f;
   --x: #c53b53;
   --y: #ff007c;
-
-  /* OFFICIAL (RGB) */
-
-
-
-
-  /* OLD (HEX)*/
-  --black: #0F1416;
-  --space-cadet: #282D40;
-  --davys-gray: #4A495A;
-  --taupe: #83828B;
-  --silver: #BCBCBC;
-
-  --salmon: #FE433C;
-  --watermelon: #F31D64;
-  --lilac: #A224AD;
-  --purple: #6A38B3;
-  --blue: #3C5081;
-  --light-blue: #0095EF;
-
-  --yellow: #EFCA00;
-  --teal: #43C68B;
-
-
-  /* OLD (RGB) */
-  --black_: rgb(15, 20, 22);
-  --space_cadet_: rgb(40, 45, 64);
-  --davys-gray_: rgb(74, 73, 90);
-  --taupe_: rgb(131, 130, 139);
-  --silver_: rgb(188, 188, 188);
-
-  --salmon_: rgb(254, 67, 60);
-  --watermelon_: rgb(243, 29, 100);
-  --lilac_: rgb(162, 36, 173);
-  --purple_: rgb(106, 56, 179);
-  --blue_: rgb(60, 80, 129);
-  --light-blue_: rgb(0, 149, 239);
-
-  --yellow_: rgb(239, 202, 0);
-  --teal_: rgb(67, 198, 139);
 
 
   /* OTHER */

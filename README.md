@@ -1,14 +1,20 @@
 <div align="left" style="margin-top: 30px;">
     <b>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=7aa2f7&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=db1df3&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
     </b>
     <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhqN2sycno2M2FpYTRjM3V0M3ZzeTZzcGlvZ2s2dnJwMmF3dTVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.webp" width=180 style="display: inline-block; margin-top: 5px;"> -->
 </div>
 
+## Check out some of my projects:
+#### - My personal website built using Next.js: https://www.jayandsparrow.com/
+#### - A full stack website I built from scratch using React/Vite, Node.js, Express.js, and MySQL: https://foureyedbutterfly.com/
+#### - My research at UAB involving machine learning applications in the analysis of PV materials at UAB by building deep neural networks in Python: https://github.com/jonperk318/machine-learning-analysis-of-hyperspectral-data
+#### - See some of my other repos below!
+
+<!--
 <h2>About Me</h2>
 <a target="_blank" align="center">
 </a>
-
 #### -  🌏 I’m passionate about learning and building new technologies to make the world a better place for everyone.
 
 #### -  👨🏼‍💻 I’m studying physics and computer science at the University of Alabama at Birmingham (UAB), graduating in December 2024
@@ -18,7 +24,7 @@
 #### -  ✨ I also research machine learning applications in the analysis of PV materials at UAB by building deep neural networks in Python.
 
 #### -  🎸 When I'm not coding, I'm either walking my dog, cooking, or playing my guitar.
-
+-->
 
 
 ## <b> Languages and Tools </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30>
@@ -29,12 +35,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40"/>
@@ -63,23 +72,23 @@
   <!-- GitHub Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=jonperk318&count_private=true&theme=tokyonight&hide_border=true" alt="JP's Contribution" width=500> -->
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonperk318&count_private=true&theme=tokyonight&hide_border=true&text_color=BCBCBC" alt="JP's Rating" width=500>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonperk318&count_private=true&theme=github_dark&hide_border=true" alt="JP's Rating" width=500>
 <!-- GitHub Language Stats -->
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook,html&theme=tokyonight" alt="JP's Languages/Frameworks" width=500 />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook,html&theme=github_dark" alt="JP's Languages/Frameworks" width=500 />
 </p>
 <p align = "center">
 </p>
 
 <div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=jonperk318&color=ff007c&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=jonperk318&color=db1df3&style=for-the-badge">
 </div>
 
 
 <br><br>
 ## <b> Let's Connect! </b><img src="https://i.giphy.com/S9ukg9TDGpMDxHKqGI.webp" width =100>
 <p align="center">
-	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=Ww1lcGqgduif&format=png&color=bb9af7"/></a>
-	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=v9q7oVKxTRhw&format=png&color=bb9af7"/></a>
- 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=MCDIN0kjvWmA&format=png&color=bb9af7"/></a>
-<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=32309&format=png&color=bb9af7"/></a>
+	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=Ww1lcGqgduif&format=png&color=db1df3"/></a>
+	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=v9q7oVKxTRhw&format=png&color=db1df3"/></a>
+ 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=MCDIN0kjvWmA&format=png&color=db1df3"/></a>
+<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=32309&format=png&color=db1df3"/></a>
 </p>
