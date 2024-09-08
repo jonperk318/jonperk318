@@ -1,15 +1,14 @@
 <div align="left" style="margin-top: 30px;">
     <b>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Veranda&pause=1700&color=db1df3&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi+there%2C+I'm+JP.+" alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&letterSpacing=3px&pause=2000&duration=2000&color=6CC644&vCenter=true&multiline=true&width=455&height=100&lines=Hi+there%2C+I'm+JP.;Check+out+some+of+my+projects!" alt="Typing SVG" /></a>
     </b>
     <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhqN2sycno2M2FpYTRjM3V0M3ZzeTZzcGlvZ2s2dnJwMmF3dTVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.webp" width=180 style="display: inline-block; margin-top: 5px;"> -->
 </div>
 
-## Check out some of my projects:
-#### - My personal website built using Next.js: https://www.jayandsparrow.com/
-#### - A full stack website I built from scratch using React/Vite, Node.js, Express.js, and MySQL: https://foureyedbutterfly.com/
-#### - My research at UAB involving machine learning applications in the analysis of PV materials at UAB by building deep neural networks in Python: https://github.com/jonperk318/machine-learning-analysis-of-hyperspectral-data
-#### - See some of my other repos below!
+#### - My personal website built using Next.js deployed on Vercel: https://www.jayandsparrow.com/
+#### - A full stack CRUD website I built from scratch using React/Vite, Node.js, Express.js, and MySQL, deployed on a DigitalOcean droplet running an Nginx reverse-proxy server: https://foureyedbutterfly.com/
+#### - My research at UAB involving machine learning applications in the analysis of energy materials used in PV cells. Analyzing hyperspectral datasets through non-negative matrix factorization (NMF) and variational autoencoder (VAE) deep neural networks: https://research.jayandsparrow.com/
+#### - See some of my repos below!
 
 <!--
 <h2>About Me</h2>
@@ -43,6 +42,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="40" width="40"/>
@@ -54,6 +55,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" height="40" width="40"/>
@@ -80,15 +82,15 @@
 </p>
 
 <div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=jonperk318&color=db1df3&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=jonperk318&color=4078c0&style=for-the-badge">
 </div>
 
 
 <br><br>
 ## <b> Let's Connect! </b><img src="https://i.giphy.com/S9ukg9TDGpMDxHKqGI.webp" width =100>
 <p align="center">
-	<a href="mailto:jonperk318@gmail.com"><img alt="gmail" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=Ww1lcGqgduif&format=png&color=db1df3"/></a>
-	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=v9q7oVKxTRhw&format=png&color=db1df3"/></a>
- 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=MCDIN0kjvWmA&format=png&color=db1df3"/></a>
-<a href="https://www.instagram.com/jonperk318"><img alt="instagram" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=32309&format=png&color=db1df3"/></a>
+	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=v9q7oVKxTRhw&format=png&color=6cc644"/></a>
+ 	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=MCDIN0kjvWmA&format=png&color=6cc644"/></a>
+  <a href="https://www.instagram.com/jonperk318"><img alt="instagram" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=32309&format=png&color=6cc644"/></a>
+  <a href="mailto:jonperk318@gmail.com"><img alt="gmail" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=Ww1lcGqgduif&format=png&color=6cc644"/></a>
 </p>
