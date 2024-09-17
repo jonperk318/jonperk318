@@ -10,7 +10,7 @@
   --salmon: #FE433C;
   --watermelon: #F31D64;
   --lilac: #A224AD;
-  --fusha: #db1df3;
+  --fuchsia: #db1df3;
   --purple: #6A38B3;
   --lavender: #bdadff;
   --blue: #3C5081;
@@ -30,6 +30,7 @@
   --salmon_: rgb(254, 67, 60);
   --watermelon_: rgb(243, 29, 100);
   --lilac_: rgb(162, 36, 173);
+  --fuchsia_: rgb(219, 29, 243);
   --purple_: rgb(106, 56, 179);
   --blue_: rgb(60, 80, 129);
   --light-blue_: rgb(0, 149, 239);
