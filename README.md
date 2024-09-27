@@ -76,7 +76,7 @@ height="40" width="40" />
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jonperk318&count_private=true&theme=github_dark&hide_border=true" alt="JP's Rating" width=500>
 <!-- GitHub Language Stats -->
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook,html&theme=github_dark" alt="JP's Languages/Frameworks" width=500 />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook,html,makefile&theme=github_dark" alt="JP's Languages/Frameworks" width=500 />
 </p>
 <p align = "center">
 </p>
