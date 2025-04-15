@@ -28,9 +28,9 @@
 
 ## <b> Languages and Tools </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30>
 
-<div style="display: flex; flex-direction: row; align-items: center;">
+<div>
 
-<p>
+<div align=top>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="40" width="40"/>
@@ -66,12 +66,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40" width="40"/>
-</p>
+</div>
 
-<p>
+<div align=top>
 <!-- GitHub Language Stats -->
-<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook,html,makefile,cmake&theme=github_dark" alt="JP's Languages/Frameworks" width=1300 />
-</p>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=jonperk318&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&hide=jupyter%20notebook,html,makefile,cmake&theme=github_dark" alt="JP's Languages/Frameworks" width=400 />
+</div>
 
 </div>
 
