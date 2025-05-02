@@ -1,14 +1,13 @@
-<div align="left" style="margin-top: 30px;">
+<div align="left">
     <b>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=25&letterSpacing=4px&pause=2000&duration=2000&color=39d353&vCenter=true&multiline=true&width=475&height=100&lines=Hi+there%2C+I'm+JP.;Check+out+some+of+my+projects!" alt="Typing SVG" /></a>
     </b>
     <!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzhqN2sycno2M2FpYTRjM3V0M3ZzeTZzcGlvZ2s2dnJwMmF3dTVndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j5QUSpXVuwtr2/giphy.webp" width=180 style="display: inline-block; margin-top: 5px;"> -->
 </div>
 
-#### - My personal website built using Next.js deployed on Vercel: https://www.jayandsparrow.com/
-#### - A full stack CRUD website I built from scratch using React/Vite, Node.js, Express.js, and MySQL, deployed on a DigitalOcean droplet running an Nginx reverse-proxy server: https://foureyedbutterfly.com/
+#### - My personal website built using React/Next.js and Tailwind CSS deployed on Vercel: https://www.jayandsparrow.com/
+#### - A full stack CRUD website I built from scratch using React/Vite, Node.js, Express.js, and MySQL, deployed on a DigitalOcean Ubuntu server running an Nginx reverse-proxy: https://foureyedbutterfly.com/
 #### - My research at UAB involving machine learning applications in the analysis of energy materials used in PV cells. Analyzing hyperspectral datasets through non-negative matrix factorization (NMF) and variational autoencoder (VAE) deep neural networks: https://research.jayandsparrow.com/
-#### - See some of my repos below!
 
 <!--
 <h2>About Me</h2>
@@ -77,12 +76,10 @@
 </tr>
 </table>
 
-<div align="center" >
-  <img src="https://komarev.com/ghpvc/?username=jonperk318&color=4493F8&style=for-the-badge">
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=jonperk318&color=39d353&style=for-the-badge">
 </div>
 
-
-## <b> Let's Connect! </b><img src="https://i.giphy.com/S9ukg9TDGpMDxHKqGI.webp" width =100>
 <p align="center">
 	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=v9q7oVKxTRhw&format=png&color=39d353"/></a>
  	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=MCDIN0kjvWmA&format=png&color=39d353"/></a>
