@@ -42,7 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
 height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
@@ -89,7 +89,7 @@ height="40" width="40" />
 <br><br>
 ## <b> Let's Connect! </b><img src="https://i.giphy.com/S9ukg9TDGpMDxHKqGI.webp" width =100>
 <p align="center">
-	<a href="https://www.linkedin.com/in/jonathan-perkins-0b1411285/"><img alt="linkedin" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=v9q7oVKxTRhw&format=png&color=39d353"/></a>
+	<a href="https://www.linkedin.com/in/jonathan-david-perkins/"><img alt="linkedin" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=v9q7oVKxTRhw&format=png&color=39d353"/></a>
  	<a href="https://www.facebook.com/jonathan.davidperkins/"><img alt="facebook" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=MCDIN0kjvWmA&format=png&color=39d353"/></a>
   <a href="https://www.instagram.com/jonperk318"><img alt="instagram" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=32309&format=png&color=39d353"/></a>
   <a href="mailto:jonperk318@gmail.com"><img alt="gmail" width=40 style="padding:5px" src="https://img.icons8.com/?size=80&id=Ww1lcGqgduif&format=png&color=39d353"/></a>
